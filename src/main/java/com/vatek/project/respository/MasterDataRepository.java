@@ -1,5 +1,6 @@
-package com.catdev.project.respository;
+package com.vatek.project.respository;
 
+import com.vatek.project.entity.MasterDataEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 

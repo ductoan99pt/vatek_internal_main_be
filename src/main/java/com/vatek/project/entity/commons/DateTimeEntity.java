@@ -1,4 +1,4 @@
-package com.vatek.project.entity.common;
+package com.vatek.project.entity.commons;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

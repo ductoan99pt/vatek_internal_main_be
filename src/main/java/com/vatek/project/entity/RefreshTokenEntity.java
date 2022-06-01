@@ -1,6 +1,6 @@
 package com.vatek.project.entity;
 
-import com.vatek.project.entity.common.DateTimeEntity;
+import com.vatek.project.entity.commons.DateTimeEntity;
 import lombok.Getter;
 import lombok.Setter;
 

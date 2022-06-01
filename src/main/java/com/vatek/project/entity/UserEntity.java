@@ -1,6 +1,6 @@
 package com.vatek.project.entity;
 
-import com.vatek.project.entity.common.CommonEntity;
+import com.vatek.project.entity.commons.CommonEntity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

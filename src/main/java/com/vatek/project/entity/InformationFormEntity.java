@@ -1,6 +1,7 @@
 package com.vatek.project.entity;
 
-import com.vatek.project.entity.common.CommonEntity;
+import com.vatek.project.entity.commons.CommonEntity;
+import com.vatek.project.entity.enums.FormTypeEnum;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -26,5 +27,6 @@ public class InformationFormEntity extends CommonEntity {
     private byte[] file;
 
     @Column
-    private Long formTypeId;
+    @Enumerated(value = EnumType.STRING)
+    private FormTypeEnum formType;
 }

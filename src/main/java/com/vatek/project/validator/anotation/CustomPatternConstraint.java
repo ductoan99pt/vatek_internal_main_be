@@ -1,6 +1,6 @@
-package com.catdev.project.validator.anotation;
+package com.vatek.project.validator.anotation;
 
-import com.catdev.project.validator.CustomPatternValidators;
+import com.vatek.project.validator.CustomPatternValidators;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;

@@ -1,4 +1,4 @@
-package com.catdev.project.constant;
+package com.vatek.project.constant;
 
 public class ErrorConstant {
     public static class Code {

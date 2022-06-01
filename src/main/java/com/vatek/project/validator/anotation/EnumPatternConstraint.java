@@ -1,6 +1,6 @@
-package com.catdev.project.validator.anotation;
+package com.vatek.project.validator.anotation;
 
-import com.catdev.project.validator.EnumPatternValidator;
+import com.vatek.project.validator.EnumPatternValidator;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;

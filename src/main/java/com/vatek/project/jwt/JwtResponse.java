@@ -1,4 +1,4 @@
-package com.catdev.project.jwt;
+package com.vatek.project.jwt;
 
 
 import io.jsonwebtoken.Claims;

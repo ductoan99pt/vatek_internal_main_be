@@ -1,4 +1,4 @@
-package com.catdev.project.jwt.payload.response;
+package com.vatek.project.jwt.payload.response;
 
 import lombok.Getter;
 import lombok.Setter;

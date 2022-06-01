@@ -1,7 +1,7 @@
-package com.catdev.project.validator;
+package com.vatek.project.validator;
 
-import com.catdev.project.constant.DateConstant;
-import com.catdev.project.validator.anotation.DateFormatConstraint;
+import com.vatek.project.constant.DateConstant;
+import com.vatek.project.validator.anotation.DateFormatConstraint;
 import org.apache.commons.lang3.StringUtils;
 
 import javax.validation.ConstraintValidator;

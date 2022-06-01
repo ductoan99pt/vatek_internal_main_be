@@ -1,7 +1,7 @@
 package com.vatek.project;
 
-import com.catdev.project.service.UserService;
-import com.catdev.project.util.CommonUtil;
+import com.vatek.project.service.UserService;
+import com.vatek.project.util.CommonUtil;
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.boot.SpringApplication;

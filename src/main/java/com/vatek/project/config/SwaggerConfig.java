@@ -1,4 +1,4 @@
-package com.catdev.project.config;
+package com.vatek.project.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -25,7 +25,7 @@ public class SwaggerConfig {
                 .securityContexts(Collections.singletonList(securityContext()))
                 .securitySchemes(Collections.singletonList(apiKey()))
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.catdev.project.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.vatek.project.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }

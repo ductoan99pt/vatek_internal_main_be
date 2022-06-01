@@ -1,6 +1,6 @@
-package com.catdev.project.validator;
+package com.vatek.project.validator;
 
-import com.catdev.project.validator.anotation.CustomPatternConstraint;
+import com.vatek.project.validator.anotation.CustomPatternConstraint;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.core.env.Environment;
 

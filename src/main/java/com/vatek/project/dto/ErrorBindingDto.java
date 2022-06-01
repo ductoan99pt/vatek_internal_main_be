@@ -1,4 +1,4 @@
-package com.catdev.project.dto;
+package com.vatek.project.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

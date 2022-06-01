@@ -1,4 +1,4 @@
-package com.catdev.project.respository;
+package com.vatek.project.respository;
 
 import com.vatek.project.entity.UserEntity;
 import org.springframework.data.domain.Page;

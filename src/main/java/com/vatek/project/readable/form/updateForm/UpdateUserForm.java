@@ -1,6 +1,6 @@
-package com.catdev.project.readable.form.updateForm;
+package com.vatek.project.readable.form.updateForm;
 
-import com.catdev.project.readable.form.createForm.CreateUserForm;
+import com.vatek.project.readable.form.createForm.CreateUserForm;
 import lombok.Getter;
 import lombok.Setter;
 

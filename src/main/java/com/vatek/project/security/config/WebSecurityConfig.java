@@ -1,8 +1,8 @@
-package com.catdev.project.security.config;
+package com.vatek.project.security.config;
 
-import com.catdev.project.jwt.JwtAuthEntryPoint;
-import com.catdev.project.jwt.JwtAuthTokenFilter;
-import com.catdev.project.security.service.UserDetailsServiceImpl;
+import com.vatek.project.jwt.JwtAuthEntryPoint;
+import com.vatek.project.jwt.JwtAuthTokenFilter;
+import com.vatek.project.security.service.UserDetailsServiceImpl;
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
-package com.catdev.project.jwt;
+package com.vatek.project.jwt;
 
-import com.catdev.project.security.service.UserPrinciple;
+import com.vatek.project.security.service.UserPrinciple;
 import io.jsonwebtoken.*;
 import lombok.extern.log4j.Log4j2;
 import org.apache.logging.log4j.LogManager;

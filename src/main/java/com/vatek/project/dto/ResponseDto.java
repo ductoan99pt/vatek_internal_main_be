@@ -1,6 +1,6 @@
-package com.catdev.project.dto;
+package com.vatek.project.dto;
 
-import com.catdev.project.jwt.exception.ErrorResponse;
+import com.vatek.project.jwt.exception.ErrorResponse;
 import lombok.Getter;
 import lombok.Setter;
 

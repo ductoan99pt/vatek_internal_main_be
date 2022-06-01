@@ -1,4 +1,4 @@
-package com.catdev.project.config;
+package com.vatek.project.config;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonParser;

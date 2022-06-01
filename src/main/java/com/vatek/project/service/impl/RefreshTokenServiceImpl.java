@@ -1,13 +1,13 @@
-package com.catdev.project.service.impl;
+package com.vatek.project.service.impl;
 
 import com.vatek.project.entity.RefreshTokenEntity;
 import com.vatek.project.entity.UserEntity;
-import com.catdev.project.jwt.exception.ErrorResponse;
-import com.catdev.project.jwt.exception.ProductException;
-import com.catdev.project.jwt.exception.TokenRefreshException;
-import com.catdev.project.respository.RefreshTokenRepository;
-import com.catdev.project.respository.UserRepository;
-import com.catdev.project.service.RefreshTokenService;
+import com.vatek.project.jwt.exception.ErrorResponse;
+import com.vatek.project.jwt.exception.ProductException;
+import com.vatek.project.jwt.exception.TokenRefreshException;
+import com.vatek.project.respository.RefreshTokenRepository;
+import com.vatek.project.respository.UserRepository;
+import com.vatek.project.service.RefreshTokenService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

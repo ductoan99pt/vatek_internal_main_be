@@ -1,4 +1,4 @@
-package com.catdev.project.service;
+package com.vatek.project.service;
 
 import org.springframework.stereotype.Service;
 

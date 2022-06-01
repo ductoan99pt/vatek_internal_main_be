@@ -1,7 +1,7 @@
-package com.catdev.project.jwt.exception;
+package com.vatek.project.jwt.exception;
 
-import com.catdev.project.constant.ErrorConstant;
-import com.catdev.project.dto.ErrorBindingDto;
+import com.vatek.project.constant.ErrorConstant;
+import com.vatek.project.dto.ErrorBindingDto;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;

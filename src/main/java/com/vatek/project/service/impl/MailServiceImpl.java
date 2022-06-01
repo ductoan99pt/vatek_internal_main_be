@@ -1,6 +1,6 @@
-package com.catdev.project.service.impl;
+package com.vatek.project.service.impl;
 
-import com.catdev.project.service.MailService;
+import com.vatek.project.service.MailService;
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.apache.logging.log4j.LogManager;

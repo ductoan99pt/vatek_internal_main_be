@@ -1,7 +1,7 @@
-package com.catdev.project.security.service;
+package com.vatek.project.security.service;
 
 import com.vatek.project.entity.UserEntity;
-import com.catdev.project.respository.UserRepository;
+import com.vatek.project.respository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,4 +1,4 @@
-package com.catdev.project.readable.response;
+package com.vatek.project.readable.response;
 
 import lombok.Getter;
 import lombok.Setter;

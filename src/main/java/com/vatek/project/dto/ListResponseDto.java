@@ -1,4 +1,4 @@
-package com.catdev.project.dto;
+package com.vatek.project.dto;
 
 import org.springframework.data.domain.Page;
 

@@ -1,4 +1,4 @@
-package com.catdev.project.constant;
+package com.vatek.project.constant;
 
 public class CommonConstant {
     public static final String CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789~`!@#$%^&*()-_=+[{]}\\\\|;:\\'\\\",<.>/?";

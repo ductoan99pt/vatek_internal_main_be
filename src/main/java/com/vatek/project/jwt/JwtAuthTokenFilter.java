@@ -1,8 +1,8 @@
-package com.catdev.project.jwt;
+package com.vatek.project.jwt;
 
-import com.catdev.project.respository.UserRepository;
-import com.catdev.project.security.service.UserDetailsServiceImpl;
-import com.catdev.project.security.service.UserPrinciple;
+import com.vatek.project.respository.UserRepository;
+import com.vatek.project.security.service.UserDetailsServiceImpl;
+import com.vatek.project.security.service.UserPrinciple;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

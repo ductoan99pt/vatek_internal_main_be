@@ -1,14 +1,14 @@
-package com.catdev.project.controller;
+package com.vatek.project.controller;
 
-import com.catdev.project.constant.ErrorConstant;
-import com.catdev.project.dto.ResponseDto;
-import com.catdev.project.dto.user.UserDto;
-import com.catdev.project.jwt.JwtProvider;
-import com.catdev.project.readable.form.updateForm.UpdateUserForm;
-import com.catdev.project.readable.request.ChangePasswordReq;
-import com.catdev.project.readable.request.ChangeStatusAccountReq;
-import com.catdev.project.service.RefreshTokenService;
-import com.catdev.project.service.UserService;
+import com.vatek.project.constant.ErrorConstant;
+import com.vatek.project.dto.ResponseDto;
+import com.vatek.project.dto.user.UserDto;
+import com.vatek.project.jwt.JwtProvider;
+import com.vatek.project.readable.form.updateForm.UpdateUserForm;
+import com.vatek.project.readable.request.ChangePasswordReq;
+import com.vatek.project.readable.request.ChangeStatusAccountReq;
+import com.vatek.project.service.RefreshTokenService;
+import com.vatek.project.service.UserService;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;

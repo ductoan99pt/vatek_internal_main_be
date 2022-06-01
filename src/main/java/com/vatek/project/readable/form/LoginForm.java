@@ -1,4 +1,4 @@
-package com.catdev.project.readable.form;
+package com.vatek.project.readable.form;
 
 import lombok.Getter;
 import lombok.Setter;

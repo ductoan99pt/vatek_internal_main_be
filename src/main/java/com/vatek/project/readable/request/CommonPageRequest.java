@@ -1,4 +1,4 @@
-package com.catdev.project.readable.request;
+package com.vatek.project.readable.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.catdev.project.util;
+package com.vatek.project.util;
 
 import com.ibm.icu.text.NumberFormat;
 import com.ibm.icu.text.RuleBasedNumberFormat;

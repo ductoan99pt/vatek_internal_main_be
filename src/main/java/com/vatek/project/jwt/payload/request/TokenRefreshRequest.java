@@ -1,4 +1,4 @@
-package com.catdev.project.jwt.payload.request;
+package com.vatek.project.jwt.payload.request;
 
 public class TokenRefreshRequest {
     private String refreshToken;

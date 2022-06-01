@@ -1,20 +1,20 @@
-package com.catdev.project.service.impl;
+package com.vatek.project.service.impl;
 
-import com.catdev.project.constant.CommonConstant;
-import com.catdev.project.constant.ErrorConstant;
-import com.catdev.project.dto.ListResponseDto;
-import com.catdev.project.dto.user.UserDto;
+import com.vatek.project.constant.CommonConstant;
+import com.vatek.project.constant.ErrorConstant;
+import com.vatek.project.dto.ListResponseDto;
+import com.vatek.project.dto.user.UserDto;
 import com.vatek.project.entity.UserEntity;
-import com.catdev.project.jwt.exception.ErrorResponse;
-import com.catdev.project.jwt.exception.ProductException;
-import com.catdev.project.readable.form.createForm.CreateUserForm;
-import com.catdev.project.readable.form.updateForm.UpdateUserForm;
-import com.catdev.project.readable.request.ChangePasswordReq;
-import com.catdev.project.readable.request.ChangeStatusAccountReq;
-import com.catdev.project.respository.UserRepository;
-import com.catdev.project.service.MailService;
-import com.catdev.project.service.UserService;
-import com.catdev.project.util.CommonUtil;
+import com.vatek.project.jwt.exception.ErrorResponse;
+import com.vatek.project.jwt.exception.ProductException;
+import com.vatek.project.readable.form.createForm.CreateUserForm;
+import com.vatek.project.readable.form.updateForm.UpdateUserForm;
+import com.vatek.project.readable.request.ChangePasswordReq;
+import com.vatek.project.readable.request.ChangeStatusAccountReq;
+import com.vatek.project.respository.UserRepository;
+import com.vatek.project.service.MailService;
+import com.vatek.project.service.UserService;
+import com.vatek.project.util.CommonUtil;
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
@@ -32,7 +32,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import static com.catdev.project.util.EmailValidateUtil.isAddressValid;
+import static com.vatek.project.util.EmailValidateUtil.isAddressValid;
 
 @Service
 @AllArgsConstructor

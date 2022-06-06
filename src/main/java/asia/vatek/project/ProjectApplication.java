@@ -23,7 +23,7 @@ import java.util.TimeZone;
 
 
 @SpringBootApplication
-@EntityScan(basePackages = {"com.vatek.project"})
+@EntityScan(basePackages = {"asia.vatek.project"})
 @EnableSwagger2
 @EnableScheduling
 @EnableAsync

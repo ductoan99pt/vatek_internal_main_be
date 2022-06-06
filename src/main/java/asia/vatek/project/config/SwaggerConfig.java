@@ -25,7 +25,7 @@ public class SwaggerConfig {
                 .securityContexts(Collections.singletonList(securityContext()))
                 .securitySchemes(Collections.singletonList(apiKey()))
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.vatek.project.controller"))
+                .apis(RequestHandlerSelectors.basePackage("asia.vatek.project.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }
